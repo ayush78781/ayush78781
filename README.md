@@ -14,7 +14,7 @@
 
 - 📫 Contact me **[here](ayush70781gmail.com)**
 
-- 📄 My Resume [https://drive.google.com/file/d/1KrVx9EsbYnh0qUzTmERM2ALBvSKZUkuP/view?usp=sharing](https://drive.google.com/file/d/1KrVx9EsbYnh0qUzTmERM2ALBvSKZUkuP/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1NKea2C2e7O1xkU9OzOOntUiTYmrjCMFi/view?usp=sharing](https://drive.google.com/file/d/1NKea2C2e7O1xkU9OzOOntUiTYmrjCMFi/view?usp=sharing)
 
 
 ## ✍ My Work
