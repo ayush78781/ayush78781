@@ -2,19 +2,19 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on my Google solution Challenge'21 Project (https://github.com/ayush78781/Educational_resources_ecommerce)
+- 🔭 I’m currently working on my DATA Security using Cryptography Project
 
-- 🌱 I’m currently learning **OS, COA, DSA, Flutter and Firebase**
+- 🌱 I’m currently learning **OS, COA, DSA, Machine Learning, Tkinter**
 
-- 👯 I’m looking to collaborate on **GSSoC'21 Flutter, Algorithmic Projects**
+- 👯 I’m looking to collaborate on **Intermediate level Projects**
 
 - 📝 Read my published article [https://www.geeksforgeeks.org/how-to-add-labels-in-a-plot-using-python/](https://www.geeksforgeeks.org/how-to-add-labels-in-a-plot-using-python/)
 
-- 💬 Ask me about **C, C++, Python, DSA, Flutter and Firebase**
+- 💬 Ask me about **C, C++, Python, DSA, Cryptography, Web Development**
 
 - 📫 Contact me **[here](ayush70781gmail.com)**
 
-- 📄 My Resume [https://drive.google.com/file/d/1NKea2C2e7O1xkU9OzOOntUiTYmrjCMFi/view?usp=sharing](https://drive.google.com/file/d/1NKea2C2e7O1xkU9OzOOntUiTYmrjCMFi/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1v9mWcakcqpxWYyod_FL-AyPA6bSxGg2T/view?usp=sharing](https://drive.google.com/file/d/1v9mWcakcqpxWYyod_FL-AyPA6bSxGg2T/view?usp=sharing)
 
 
 ## ✍ My Work
